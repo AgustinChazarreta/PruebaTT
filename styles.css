@@ -1,0 +1,23 @@
+/* --- NAVBAR SECTION --- */
+h1 {
+    background-color: #0d8af0;
+    font-family: Verdana;
+}
+
+.nav__ul {
+    background-color: #fff;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 0 25px #0006;
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav__link {
+    color: #eb380b;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #ccc;
+}
